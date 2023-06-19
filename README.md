@@ -16,9 +16,11 @@ Na Imagem Acima, Podemos Observar A Página Inicial Do Site Que Apresenta Divers
 
 <div align="justify">
 Na Imagem Acima Temos A Pagina De Administração Onde O Administrador Pode Ver Todas Os Clientes Cadastrados Em Formato De Cards, Também Pode Editar E Excluir As Solicitações.
-</div>
+</div><br>
+
 
 ![products](printsGithub/products.png)
+
 <div align="justify">
 Na Imagem Acima Temos A Pagina De Administração Onde O Administrador Pode Ver Todos Os Produtos Cadastrados Em Formato De Cards, Também Pode Editar E Excluir Os Produtos.
 </div>
