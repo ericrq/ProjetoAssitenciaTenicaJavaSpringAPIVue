@@ -20,3 +20,6 @@ Na Imagem Acima Temos A Pagina De Administração Onde O Administrador Pode Ver 
 
 ![products](printsGithub/products.png)
 
+<div align="justify">
+Na Imagem Acima Temos A Pagina De Administração Onde O Administrador Pode Ver Todas Os Produtos Cadastrados Em Formato De Cards, Também Pode Editar E Excluir As Solicitações.
+</div><br>
